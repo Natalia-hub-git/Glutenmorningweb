@@ -1,0 +1,111 @@
+[
+  {
+    "producto_id": 1,
+    "titulo": "Saltí",
+    "texto": "Ingredientes: almidón de maíz , grasa de palma , harina de maíz , azúcar , harina de soja , dextrosa , almidón de maíz modificado , gasificantes: carbonato ácido de amonio ; sal marina 1,2% , emulgente: lecitina de sojaa ; espesantes: goma de guar , acidificante: ; aroma natural .",
+    "descripcion": "Bizcochitos - 175Gr - Schar",
+    "imagen": "salti.jpg",
+    "precio": "$180.-",
+    "imagen_descripcion": "Bizcochitos con sal marina sin gluten"
+  },
+  {
+    "producto_id": 2,
+    "titulo": "Chocofibras",
+    "texto": "Ingredientes: Chocolate con leche 29%, almidón de maíz, grasa de palma, azúcar de caña, harina de maíz, harina de soja, salvado de soja, harina de alforjón, jarabe de remolacha, almidón modificado de tapioca, sal, gasificantes: carbonato ácido de amonio, carbonato ácido de sodio.",
+    "descripcion": "Galleta - 150Gr - Schar",
+    "imagen": "chocofibras.jpg",
+    "precio": "$190.-",
+    "imagen_descripcion": "Galletitas de chocolate con fibras sin gluten"
+  },
+  {
+    "producto_id": 3,
+    "titulo": "Papas fritas",
+    "texto": "Ingredientes: Papas, sal, aceite Alto Oléico. No posee grasas Trans, debido a que están elaboradas con aceite de girasol alto oleico. Libre de colesterol.",
+    "descripcion": "Papas - 160Gr - Julicroc",
+    "imagen": "papas.jpg",
+    "precio": "$150.-",
+    "imagen_descripcion": "Papas fritas en hojuelas sin gluten"
+  },
+  {
+    "producto_id": 4,
+    "titulo": "Rellenas ",
+    "texto": "Ingredientes: crema de leche 35% [grasas vegetales (coco, palma), leche entera en polvo 6,5%, dextrosa, azúcar, lactosa (leche), emulgente: lecitina de soja; aroma natural], almidón de maíz, azúcar, grasa de palma, harina de maíz, cacao desnatado en polvo 5%, harina de soja, fécula de patata, leche entera en polvo, sal.",
+    "descripcion": "Galleta - 165Gr - Schar",
+    "imagen": "choco-rellenas.jpg",
+    "precio": "$300.-",
+    "imagen_descripcion": "Galletitas de chocolate rellenas de crema de vainilla"
+  },
+  {
+    "producto_id": 5,
+    "titulo": "Crakers",
+    "texto": "Ingredientes: almidón de maíz , harina de maíz , margarina vegetal [grasas y aceites vegetales (palma, palmiste, coco, colza en proporción variable), agua, sal, emulgente: mono- y diglicéridos de ácidos grasos; aroma] , maltodextrine , jarabe de arroz , almidón modificado de tapioca , harina de soja , sal , levadura , espesantes: goma guar, hidroxipropil metilcelulosa ; gasificantes: tartrato monopotásico, carbonato ácido de amonio, carbonato ácido de sodio ; emulgente: ésteres monoacetiltartárico y diacetiltartárico de monoglicéridos y diglicéridos de ácidos grasos ; acidulantes: ácido cítrico (E330) ; aroma natural . SIN LACTOSA (lactosa<0.007g/100g) .",
+    "descripcion": "Galletitas - 210Gr - Schar",
+    "imagen": "crackers.jpg",
+    "precio": "$180.-",
+    "imagen_descripcion": "Galletitas de agua crocantes sin gluten"
+  },
+  {
+    "producto_id": 6,
+    "titulo": "Pepas",
+    "texto": "Ingredientes: Dulce de membrillo, almidón de maíz, aceite vegetal interesterificado, azúcar, harina de arroz, agua, jarabe de glucosa, jarabe de maíz de alta fructosa, miel, sal, Emulsionante: lecitina de soja, Espesante: goma xántica, Leudantes químicos: bicarbonato de sodio, bicarbonato de amonio, Conservantes.",
+    "descripcion": "Pepas - 150Gr - Smams",
+    "imagen": "pepas.jpg",
+    "precio": "$210.-",
+    "imagen_descripcion": "Galletitas pepas rellenas de membrillo sin gluten"
+  },
+  {
+    "producto_id": 7,
+    "titulo": "Chizitos",
+    "texto": "Ingredientes: aceite de girasol, sémola de arroz, azúcar, harina de arroz, agua, Leudantes químicos: bicarbonato de sodio, bicarbonato de amonio, Conservantes.",
+    "descripcion": "Snack - 40Gr - Dos Hermanos",
+    "imagen": "quesitos.jpg",
+    "precio": "$80.-",
+    "imagen_descripcion": "Chizitos de queso sin gluten"
+  },
+  {
+    "producto_id": 8,
+    "titulo": "Rueditas",
+    "texto": "Ingredientes: Sémola de arroz, aceite de girasol, Leudantes químicos: bicarbonato de sodio, bicarbonato de amonio, Conservantes.",
+    "descripcion": "Snack - 40Gr - Dos Hermanos",
+    "imagen": "cebolla.jpg",
+    "precio": "$80.-",
+    "imagen_descripcion": "Rueditas de cebolla sin gluten"
+  },
+  {
+    "producto_id": 9,
+    "titulo": "Rueditas fritas",
+    "texto": "Ingredientes: Sémola de arroz, aceite de girasol, Leudantes químicos: bicarbonato de sodio, bicarbonato de amonio, Conservantes.",
+    "descripcion": "Snack - 40Gr - Dos Hermanos",
+    "imagen": "rueditas-papa.jpg",
+    "precio": "$80.-",
+    "imagen_descripcion": "Rueditas sabor papa frita sin gluten"
+  },
+  {
+    "producto_id": 10,
+    "titulo": "Rellenas vainilla",
+    "texto": "Ingredientes: Almidón de maiz, harina de arroz, azúcar, aceite de alto oleico, agua, jarabe de glucosa, harina de soja, sal, vainilla. Relleno de crema: azúcar impalpable, aceite vegetal interesterificado, leche en polvo, leche condensada y vainilla.",
+    "descripcion": "Vainilla - 40Gr - Smams",
+    "imagen": "vainilla-rellenas.jpg",
+    "precio": "$100.-",
+    "imagen_descripcion": "Galletitas rellenas de vainilla"
+  },
+  {
+    "producto_id": 11,
+    "titulo": "Vainillas",
+    "texto": "Ingredientes: Huevo, azúcar, harina de arroz, almidon de maiz, fecula de mandioca, emulsionante (lecitina de soja), agentes leudantes (bicarbonato de sodio, bicarbonato de sodio, fosfato monocálcico), estabilizantes (goma xantica – goma guar), saborizantes (esencia de vainilla – esencia de chocolate – esencia de limon), colorante amarillo (tartrazina), conservante ( propionato de calcio), contiene: huevo, soja.",
+    "descripcion": "Vainilla - 180Gr - Santa Maria",
+    "imagen": "vainilla-santa.jpg",
+    "precio": "$300.-",
+    "imagen_descripcion": "Galletitas de vainillas"
+  },
+  {
+    "producto_id": 12,
+    "titulo": "Anillos",
+    "texto": "Ingredientes: Almidón de maíz, agua, margarina, harina de arroz, suero de queso, almidón de mandioca, leche en polvo, huevo en polvo, RAI: bicarbonato de sodio, bicarbonato de amonio, Regulador de acidez: crémor tártaro, ARO: esencia artificial de vainilla.",
+    "descripcion": "Anillos - 400Gr - Aglu",
+    "imagen": "anillos.jpg",
+    "precio": "$300.-",
+    "imagen_descripcion": "Galletitas de vainillas"
+  }
+
+]

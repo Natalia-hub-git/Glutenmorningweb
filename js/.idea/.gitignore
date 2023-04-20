@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\reyes\Documents\Estudio\DA VINCI\2DO-CUATRIMESTRE-2020\INTERACCIÓN CON DISPOSITIVOS MOVILES\Parcial 2\Parcial 2 IDM\js\.idea/dataSources/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+/httpRequests/

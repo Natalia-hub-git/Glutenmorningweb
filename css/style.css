@@ -1,0 +1,155 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+.navbar{
+    background-color: #f5c5a3;
+    /*background-image: -webkit-gradient(linear, left top, left bottom, from(#089c9c), to(#4aadaede));*/
+}
+.navbar-brand{
+    background-image:url(../img/eating_logo.svg);
+    background-repeat: no-repeat;
+    padding: 6px 50px 5px 0px;
+    margin: 0px 10px 0px 0px;
+    background-position: right;
+    font-family: 'Lobster', cursive;
+    color:black;
+}
+ul li a{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+main{
+    font-family: 'palatino linotype', serif;
+    text-align: center;
+    min-height: 100%;
+    height: 100%;
+    padding-top:70px;
+}
+.bienvenidos_home {
+    background-image: url(../img/bienvenidos.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.bienvenidos_productos{
+    background-image: url(../img/bienvenida_productos.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.bienvenidos_consultas{
+    background-image: url(../img/bienvenida_consulta.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.bienvenidos_gracias{
+    background-image: url(../img/bienvenida_gracias.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.bienvenidos_error{
+    background-image: url(../img/error.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+h2{
+    padding-top: 140px;
+    font-size: 5em;
+    margin: 0;
+    color: #ffff;
+}
+.who-title{
+    font-size: 50px;
+}
+a{
+    color: white;
+}
+a {
+    color: #1CACE4;
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+.page-padding{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.home-picture-sizing{
+    width: 70%;
+}
+.product-picture-sizing{
+    width: 50%;
+}
+#padding-bottom-page{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+#padding-top-video{
+    padding-top: 70px;
+}
+p{
+    padding-top: 20px;
+}
+.fa-lg {
+    color: #252024;
+}
+a:hover{
+    /*color: #dd7979;*/
+    color: #E08235;
+}
+footer{
+    background-color: #f5c5a3;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+form{
+    text-align: left;
+}
+.card{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.links-redes{
+    padding-bottom: 50px;
+}
+@media screen and (max-width: 768px){
+    h2 {
+        padding-top: 140px;
+        font-size: 3em;
+    }
+    .bienvenidos_home {
+        background-image: url(../img/bienvenidos_768.jpg);
+        height: 300px;
+    }
+    .bienvenidos_productos{
+        background-image: url(../img/bienvenida_productos_768.jpg);
+        height: 300px;
+    }.bienvenidos_consultas{
+         background-image: url(../img/bienvenida_consulta_768.jpg);
+         height: 300px;
+     }
+    .bienvenidos_gracias{
+        background-image: url(../img/bienvenida_gracias_768.jpg);
+        height: 300px;
+    }
+    .bienvenidos_error{
+     background-image: url(../img/error_768.jpg);
+     height: 300px;
+ }
+}
